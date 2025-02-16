@@ -31,6 +31,9 @@ github_username:  mws262
 theme: minima
 plugins:
   - jekyll-feed
+# assets:
+#   sources:
+#     - _assets
 
 # Exclude from processing.
 # The following items will not be processed, by default.
