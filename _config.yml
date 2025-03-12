@@ -21,14 +21,14 @@
 title: Bits, Bolts, and Boards
 email: matthewsheen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Stuff I tinker with.
+  Stuff I tinker with
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattesheen
 github_username:  mws262
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 

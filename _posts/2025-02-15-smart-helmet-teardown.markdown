@@ -1,13 +1,15 @@
 ---
-layout: post
+layout: default
 title:  "Smart Bike Helmet Teardown"
 date:   2025-02-14 17:58:36 -0800
+thumbnail: assets/images/smart_helmet/helmet_thumbnail.webp
 categories: bikes, electronics, teardown
 ---
 
 Here are photos from taking apart the Brooklyness/Classon smart bike helmet. I found the product to be a great idea with half-assed software. It was too dependent on the phone app for things as simple as turning the lights on. Worse though, you could rarely get videos to transfer off of the helmet at all. And, I don't believe they ever actually got the rear camera fully working. Let's see how the hardware looks!
 
 ![helmet exterior removed](/assets/images/smart_helmet/IMG_9624.webp)
+
 The hard plastic shell was easy to remove. It just had a few globs of glue. The molded polystyrene feels like any other bike helmet. It's kind of clever the way the pink 18650 lithium battery cell is nestled in there. 
 Flat flexible cables (FFC) run across the top of the helmet connecting the rear lights and camera to the front electronics package. It's a relatively long, unshielded cable. I wonder if the signals from the rear camera weren't very reliable.
 

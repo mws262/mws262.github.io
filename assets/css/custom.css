@@ -1,0 +1,122 @@
+body {
+    font-size: 18px; /* Increase from default (usually 16px) */
+    line-height: 1.6; /* Adjust line height for readability */
+  }
+  
+.post-thumbnail {
+    margin-right: 20px;
+  }
+  
+  .post-item {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .post-thumbnail img {
+    border-radius: 4px;
+    max-width: 120px;
+    margin-right: 20px;
+  }
+  
+  .post-content h2 a {
+    text-decoration: none;
+  }
+  
+  /* Make post titles look clickable */
+.post-content h2 {
+    color: #0366d6; /* GitHub-style link blue */
+    transition: color 0.2s ease;
+  }
+  
+  .post-item-link:hover .post-content h2 {
+    text-decoration: underline;
+    color: #1a8bff; /* Slightly lighter blue on hover */
+  }
+  /* .post-content h2 a:hover {
+    text-decoration: underline;
+  } */
+
+  /* Add subtle hover effect to posts */
+.post-item {
+    transition: background-color 0.2s ease;
+  }
+  
+  .post-item:hover {
+    background-color: rgba(0,0,0,0.03);
+  }
+  
+  /* Improve date styling */
+  .post-date {
+    color: #666;
+    font-size: 0.9em;
+    font-style: italic;
+    display: block;
+    margin-top: 8px;
+  }
+  
+  /* Better excerpt styling */
+  .post-excerpt {
+    color: #555;
+    line-height: 1.5;
+    margin: 8px 0;
+  }
+
+  .post-item-link {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .post-item-link:hover {
+    text-decoration: none;
+  }
+
+  @media (max-width: 600px) {
+    .post-item {
+      flex-direction: column;
+    }
+  }
+
+
+  /* Increase main content width */
+.inner {
+    max-width: 1000px; /* Adjust this value as needed */
+  }
+  
+  #main_content {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* If needed, adjust outer container too */
+  .outer {
+    width: 100%;
+  }
+
+#project_title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#project_title a:hover {
+  text-decoration: underline;
+}
+
+/* Set maximum width for post images */
+#main_content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto; /* Centers images */
+}
+
+/* Optional: limit very large images to a reasonable size */
+@media (min-width: 500px) {
+  #main_content img {
+    max-width: 500px; /* Adjust this value as needed */
+  }
+}

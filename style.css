@@ -1,0 +1,38 @@
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.post-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.post-thumbnail {
+  flex: 0 0 150px;
+  margin-right: 20px;
+}
+
+.post-thumbnail img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.post-content {
+  flex: 1;
+}
+
+@media (max-width: 600px) {
+  .post-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .post-thumbnail {
+    margin-right: 0;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+}
