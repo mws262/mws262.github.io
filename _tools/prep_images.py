@@ -48,7 +48,7 @@ def process_directory(raw_dir, output_dir):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python process_images.py <input_folder> [output_folder]")
+        print("Usage: python3 prep_images.py <input_folder> [output_folder]")
         sys.exit(1)
 
     input_folder = sys.argv[1]

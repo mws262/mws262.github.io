@@ -3,6 +3,7 @@ layout: default
 title:  "Smart Bike Helmet Teardown"
 date:   2025-02-14 17:58:36 -0800
 thumbnail: assets/images/smart_helmet/helmet_thumbnail.webp
+permalink: /projects/smart-helmet
 categories: bikes, electronics, teardown
 ---
 

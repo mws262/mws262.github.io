@@ -3,6 +3,7 @@ layout: default
 title:  "A tiny gripe about the T-Display-S3"
 date:   2025-03-10 16:13:00 -0700
 thumbnail: assets/images/lilygo_dim/t_display_thumbnail.webp
+permalink: /projects/t-display-dimensions
 categories: esp32, mcu, "dev board", CAD, STEP
 ---
 
