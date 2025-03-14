@@ -6,12 +6,11 @@ thumbnail: assets/images/carpet_wall/cat_carpet_tv_thumbnail.webp
 permalink: /projects/cat-carpet-wall
 categories: cats, rpi, kodi, libreelec, "cat toy"
 ---
+I recently made a carpeted wall for my cats to climb. I've now added an old projector to the mix, and it's become a cat theater.
 
 <video class="responsive-video" autoplay loop muted playsinline controls><source src="{{ '/assets/images/carpet_wall/carpet_wall_chaos.mp4' | relative_url }}" type="video/mp4">
   [VIDEO]
 </video>
-
-I recently made a carpeted wall for my cats to climb. I've now added an old projector to the mix, and it's become a cat theater.
 
 ![carpet wall detail](/assets/images/carpet_wall/carpet_wall_detail.webp)
 
