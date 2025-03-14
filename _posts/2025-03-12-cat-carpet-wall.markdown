@@ -29,3 +29,13 @@ Placeholder placeholder.
 <video class="responsive-video" autoplay loop muted playsinline controls><source src="{{ '/assets/images/carpet_wall/carpet_wall_dot_h264.mp4' | relative_url }}" type="video/mp4">
   [VIDEO]
 </video>
+
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
