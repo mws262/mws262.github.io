@@ -17,5 +17,9 @@ Now my very tiny gripe. The last few times I've designed 3D printed enclosures f
 
 I'm guessing the designer just eyeballed the location when placing the buttons. Again, not a huge deal, but be careful when assuming symmetry.
 
+EDIT: I have another gripe. LILYGO asks you to tip in their checkout. Huh?
+
+![lilygo invoice](/assets/images/lilygo_dim/lilygo_tip.webp)
+
 
 

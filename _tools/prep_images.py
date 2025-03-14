@@ -46,6 +46,7 @@ def process_directory(raw_dir, output_dir):
             output_path = output_subdir / f"{Path(file).stem}.webp"
             process_image(input_path, output_path)
 
+# python3 _tools/prep_images.py _raw_img/ assets/images/
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: python3 prep_images.py <input_folder> [output_folder]")
