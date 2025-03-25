@@ -26,7 +26,7 @@ I was given an old projector recently, and I thought the cats might enjoy chasin
 
 The projector is mounted to the wall and is connected to a Raspberry Pi running LibreELEC (a Kodi distribution). I've transferred a bunch of videos to the RPi using the web interface, and Kodi has an app that I can use as a remote control.
 
-The cats also love to chase a laser pointer around the wall, so I made a virtual laser pointer with the projector. I have a python script that makes a video of a red dot moving around the screen in a whole bunch of different ways. I'll link the script soon. It's mostly AI generated, but I did tune up the movements to make them more appealing to the cats.
+The cats also love to chase a laser pointer around the wall, so I made a virtual laser pointer with the projector. I have a [python script](https://github.com/mws262/virtual-cat-laser) that makes a video of a red dot moving around the screen in a whole bunch of different ways.
 
 <video class="responsive-video" autoplay loop muted playsinline controls><source src="{{ '/assets/images/carpet_wall/carpet_wall_dot.mp4' | relative_url }}" type="video/mp4">
   [VIDEO]
