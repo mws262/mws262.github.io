@@ -18,7 +18,7 @@ Bike-shop-quality repair stands are very sturdy, but expensive. Most of these st
 ![unmounted clamp assembly](/assets/images/budget_bike_shop_stand/clamp_assembly_unmounted.webp)
 
 The cylindrical part of the clamp that goes into the weldment is 50mm diameter, but the pipe bracket has an inner diameter of 2 1/16" (~52.4mm). I made a quick 3D print to fill the gap and make the diameter of the mounting area uniform. You can get the file on [Thingiverse](https://www.thingiverse.com/thing:7008205). I was going to print with high infill out of PETG, but my low infill PLA test print is holding surprisingly well.
-
+![3D print of sleeve](/assets/images/budget_bike_shop_stand/clamp_spacer_3d_model.webp)
 ![clamp with sleeve](/assets/images/budget_bike_shop_stand/clamp_with_sleeve.webp)
 
 I mounted the pipe bracket to the side of my workshop/shed with some long lag screws that go into the framing. The set screws do a good job of prenting the clamp from rotating. I may make a make a knob for the set screws to make it faster to adjust the clamp angle.
