@@ -22,6 +22,6 @@ def resize_to_200x200(input_path, output_path):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python resize_webp.py input.webp output.webp")
+        print("Usage: python make_thumbnail.py input.webp output.webp")
         sys.exit(1)
     resize_to_200x200(sys.argv[1], sys.argv[2])
