@@ -4,7 +4,7 @@ title:  "Label Printer as 1D CNC"
 date:   2025-06-01 15:47:45 -0700
 thumbnail: assets/images/label_printer_as_1d_cnc/thumbnail.webp
 permalink: /projects/label-printer-as-1d-cnc
-categories: placeholder, category
+categories: hacks, automation, packaging
 ---
 
 I had to cut a bunch of equal-length segments of anti-static poly tubing to package the [encoder boards I sell](https://www.amazon.com/AS5047P-Magnetic-Position-Breakout-Compatible/dp/B0DLJ6XDNM). I rarely turn down the opportunity to automate a task that I should just do by hand. So, I used my label printer with a built-in cutter to do the job for me.
